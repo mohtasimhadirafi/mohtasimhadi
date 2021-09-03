@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Rafi.
+Currently studying Software Engineering at the Islamic University of Technology.
 
-<!--
-**mohtasimhadi/mohtasimhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:  &nbsp; &nbsp;
+[<img alt="Kaif-Ahsan | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
+[<img alt="Kaif-Ahsan | Email" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][email] &nbsp; &nbsp;
 
-Here are some ideas to get you started:
+<a href="https://github.com/mohtasimhadi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=verbal-noun&hide=issues&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=1"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verbal-noun&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/mohtasimhadi)
+
+
+[linkedin]: https://www.linkedin.com/in/mohtasimhadi
+[email]: mailto:mohtasimhadi@gmail.com
