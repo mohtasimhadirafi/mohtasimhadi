@@ -1,4 +1,4 @@
-### Hi there, I'm Rafi.
+### Hi there, I'm Mohtasim Hadi.
 Currently studying Software Engineering at the Islamic University of Technology.
 
 <a href="https://github.com/mohtasimhadi">
